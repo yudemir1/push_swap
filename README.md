@@ -38,7 +38,7 @@ Given a list of integers, initially all in stack `'a'` (stack `'b'` is empty), o
 
 ## ✨ Bonus Features
 
-*   `[ ]` **The Checker Program:** Implementation of a separate executable (`checker`) that validates the output of `push_swap`. It reads the initial stack configuration and the sequence of operations from standard input, executes them, and reports `"OK"` if the stack is sorted and `'b'` is empty, or `"KO"` otherwise. *(Mark `[x]` if implemented)*
+*   `[x]` **The Checker Program:** Implementation of a separate executable (`checker`) that validates the output of `push_swap`. It reads the initial stack configuration and the sequence of operations from standard input, executes them, and reports `"OK"` if the stack is sorted and `'b'` is empty, or `"KO"` otherwise.
 
 ---
 
